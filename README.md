@@ -1,0 +1,2 @@
+# aiiMafia
+AI Mafia game
